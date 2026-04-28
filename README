@@ -1,0 +1,18 @@
+# Python OOP Concepts - Day 6
+
+This repository contains Python practice programs focused on advanced Object-Oriented Programming concepts.
+
+## Topics Covered
+- Class methods
+- Alternative constructors
+- super() keyword
+- Built-in helper methods
+
+## Files
+- class_methods_example.py
+- alternative_constructor_example.py
+- super_keyword_example.py
+- python_builtin_methods_demo.py
+
+## Learning Goal
+To strengthen understanding of advanced OOP concepts in Python.
